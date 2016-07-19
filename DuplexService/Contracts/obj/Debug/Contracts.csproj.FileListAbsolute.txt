@@ -1,0 +1,5 @@
+E:\Technology\wcfdemo\DuplexService\Contracts\bin\Debug\Contracts.dll
+E:\Technology\wcfdemo\DuplexService\Contracts\bin\Debug\Contracts.pdb
+E:\Technology\wcfdemo\DuplexService\Contracts\obj\Debug\Contracts.dll
+E:\Technology\wcfdemo\DuplexService\Contracts\obj\Debug\Contracts.pdb
+E:\Technology\wcfdemo\DuplexService\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\Technology\wcfdemo\DuplexService\Services\bin\Debug\Services.dll
+E:\Technology\wcfdemo\DuplexService\Services\bin\Debug\Services.pdb
+E:\Technology\wcfdemo\DuplexService\Services\bin\Debug\Contracts.dll
+E:\Technology\wcfdemo\DuplexService\Services\bin\Debug\Contracts.pdb
+E:\Technology\wcfdemo\DuplexService\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\Technology\wcfdemo\DuplexService\Services\obj\Debug\Services.dll
+E:\Technology\wcfdemo\DuplexService\Services\obj\Debug\Services.pdb

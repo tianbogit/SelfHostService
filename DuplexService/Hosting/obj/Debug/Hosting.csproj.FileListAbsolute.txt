@@ -1,0 +1,10 @@
+E:\Technology\wcfdemo\DuplexService\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+E:\Technology\wcfdemo\DuplexService\Hosting\bin\Debug\Hosting.exe.config
+E:\Technology\wcfdemo\DuplexService\Hosting\bin\Debug\Hosting.exe
+E:\Technology\wcfdemo\DuplexService\Hosting\bin\Debug\Hosting.pdb
+E:\Technology\wcfdemo\DuplexService\Hosting\bin\Debug\Contracts.dll
+E:\Technology\wcfdemo\DuplexService\Hosting\bin\Debug\Services.dll
+E:\Technology\wcfdemo\DuplexService\Hosting\bin\Debug\Contracts.pdb
+E:\Technology\wcfdemo\DuplexService\Hosting\bin\Debug\Services.pdb
+E:\Technology\wcfdemo\DuplexService\Hosting\obj\Debug\Hosting.exe
+E:\Technology\wcfdemo\DuplexService\Hosting\obj\Debug\Hosting.pdb
