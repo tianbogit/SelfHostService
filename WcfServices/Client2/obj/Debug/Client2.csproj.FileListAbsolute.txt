@@ -1,0 +1,8 @@
+E:\workspace\WcfServices\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+E:\workspace\WcfServices\Client2\bin\Debug\Client2.exe.config
+E:\workspace\WcfServices\Client2\bin\Debug\Client2.exe
+E:\workspace\WcfServices\Client2\bin\Debug\Client2.pdb
+E:\workspace\WcfServices\Client2\bin\Debug\ServiceI.Interface.dll
+E:\workspace\WcfServices\Client2\bin\Debug\ServiceI.Interface.pdb
+E:\workspace\WcfServices\Client2\obj\Debug\Client2.exe
+E:\workspace\WcfServices\Client2\obj\Debug\Client2.pdb

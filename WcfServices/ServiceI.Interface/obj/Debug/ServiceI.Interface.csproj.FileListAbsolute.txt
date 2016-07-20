@@ -1,0 +1,4 @@
+E:\workspace\WcfServices\ServiceI.Interface\bin\Debug\ServiceI.Interface.dll
+E:\workspace\WcfServices\ServiceI.Interface\bin\Debug\ServiceI.Interface.pdb
+E:\workspace\WcfServices\ServiceI.Interface\obj\Debug\ServiceI.Interface.dll
+E:\workspace\WcfServices\ServiceI.Interface\obj\Debug\ServiceI.Interface.pdb
